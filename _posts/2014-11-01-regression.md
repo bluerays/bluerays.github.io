@@ -8,15 +8,6 @@ title: 线性回归
 
 <p class="meta"> 2014.11.01 - 北京</p>
 
-
-
-<!DOCTYPE html>
-<!-- saved from url=(0014)about:internet -->
-<html>
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-<meta http-equiv="x-ua-compatible" content="IE=9" >
-
 <title>线型回归(OLS 最小二乘法)</title>
 
 <style type="text/css">
